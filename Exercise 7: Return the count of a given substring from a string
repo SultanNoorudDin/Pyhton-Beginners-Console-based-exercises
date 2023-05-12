@@ -1,0 +1,10 @@
+
+#Write a program to find how many times substring “Emma” appears in the given string
+c =0
+a = "Emma is good developer. Emma is a writer"
+c = a.count("Emma")
+print(c,"times")
+
+
+#-----------------------------------------------------------------------
+# I was thinking of iterating through the loop but this count method crossed my mind due to which code reduced to 1/3 
