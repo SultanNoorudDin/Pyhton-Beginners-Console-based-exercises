@@ -1,0 +1,8 @@
+for num in range(10):
+    for i in range(num):
+        print (num, end=" ") #print number
+    # new line after each row to display pattern correctly
+    print("\n")
+    
+    # i am writing this as confession that i did not solve this problem
+    #i copied it from "https://pynative.com/python-basic-exercise-for-beginners/"
